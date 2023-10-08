@@ -1,2 +1,2 @@
-# DSCI 100 Demo
-DSCI 100 Fall 2023 Demo
+**Project creation date: Oct 7, 2023**
+
